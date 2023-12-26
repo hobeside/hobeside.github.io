@@ -419,11 +419,6 @@
   .wall {
     height: calc(100vh - 60px);
   }
-  .wall-title {
-    font-weight: 700;
-    font-size: 45px;
-    animation: flyIn 500ms ease-out;
-  }
   .hello-world {
     left: 20px;
   }

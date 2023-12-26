@@ -63,7 +63,7 @@ p img,
 figure img {
   display: block;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 75%;
 }
 .highlight figcaption {
   display: flex;
@@ -443,6 +443,7 @@ mjx-container {
   letter-spacing: 0.1em;
   text-decoration: none;
   margin: 0 20px;
+  font-size: 18px;
 }
 .nav-menu-item:hover {
   cursor: pointer;
@@ -548,25 +549,27 @@ mjx-container {
 }
 .foot__head .foot-line {
   margin: 0 10px;
+  font-size: 28px;
 }
 .foot__body {
   display: flex;
   flex-wrap: wrap;
 }
 .foot-item__head {
-  font-size: 24px;
+  font-size: 20px;
   margin: 10px 0;
 }
 .foot-link {
   display: inline-block;
   padding-left: 8px;
+  font-size: 18px;
 }
 .copyright {
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 0.75em;
+  font-size: 14px;
   color: #555;
 }
 .copyright a:hover {
